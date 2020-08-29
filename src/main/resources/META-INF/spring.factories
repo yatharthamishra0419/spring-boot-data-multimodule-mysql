@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.multimodule.mysql.config.BeansConfiguration,\
+com.multimodule.mysql.config.ApplicationContextConfiguration,\
+com.multimodule.mysql.config.JpaMasterSlaveConfiguration
